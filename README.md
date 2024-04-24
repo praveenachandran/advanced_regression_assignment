@@ -58,11 +58,15 @@ Moreover, due to Lasso's feature reduction capability (by shrinking coefficients
 
 Consequently, based on Lasso Regularization, the top five predictive variables are identified as follows:
 
-OverallQual: The quality of overall material and finish positively correlates with house price.
-GrLivArea: Larger living area square footage tends to increase house price.
-YearBuilt: House age positively influences price.
-Total_sqr_footage: Overall square footage of the house positively impacts price.
-Neighborhood_StoneBr: The location in Stone Brook has a positive association with house price.
+--- OverallQual: The quality of overall material and finish positively correlates with house price.
+
+--- GrLivArea: Larger living area square footage tends to increase house price.
+
+--- YearBuilt: House age positively influences price.
+
+--- Total_sqr_footage: Overall square footage of the house positively impacts price.
+
+--- Neighborhood_StoneBr: The location in Stone Brook has a positive association with house price.
 
 
 ## Technologies Used
